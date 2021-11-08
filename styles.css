@@ -70,7 +70,7 @@ model-viewer {
 
 .InfoPanel {
   position: relative;
-  bottom:0px;
+  bottom: 75px;
 }
 
 .Hotspot:not([data-visible]) > * {
